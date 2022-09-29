@@ -1,0 +1,1 @@
+相对src_pdbbind来说，对蛋白质进行了pocket选择

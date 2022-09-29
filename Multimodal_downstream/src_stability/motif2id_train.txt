@@ -1,0 +1,338 @@
+cate	num
+O	0
+B-TonB box	1
+I-TonB box	2
+E-TonB box	3
+B-TonB C-terminal box	4
+I-TonB C-terminal box	5
+E-TonB C-terminal box	6
+B-Others	7
+I-Others	8
+E-Others	9
+B-HIGH region	10
+I-HIGH region	11
+E-HIGH region	12
+B-KMSKS region	13
+I-KMSKS region	14
+E-KMSKS region	15
+B-Microbody targeting signal	16
+I-Microbody targeting signal	17
+E-Microbody targeting signal	18
+B-Nuclear localization signal	19
+I-Nuclear localization signal	20
+E-Nuclear localization signal	21
+B-Q motif	22
+I-Q motif	23
+E-Q motif	24
+B-DEAD box	25
+I-DEAD box	26
+E-DEAD box	27
+B-ERGGDP region	28
+I-ERGGDP region	29
+E-ERGGDP region	30
+B-Secondary area of contact	31
+I-Secondary area of contact	32
+E-Secondary area of contact	33
+B-JAMM motif	34
+I-JAMM motif	35
+E-JAMM motif	36
+B-PRPP-binding	37
+I-PRPP-binding	38
+E-PRPP-binding	39
+B-DEAH box	40
+I-DEAH box	41
+E-DEAH box	42
+B-Nudix box	43
+I-Nudix box	44
+E-Nudix box	45
+B-Prevents secretion from ER	46
+I-Prevents secretion from ER	47
+E-Prevents secretion from ER	48
+B-9aaTAD	49
+I-9aaTAD	50
+E-9aaTAD	51
+B-Selectivity filter	52
+I-Selectivity filter	53
+E-Selectivity filter	54
+B-PDZ-binding	55
+I-PDZ-binding	56
+E-PDZ-binding	57
+B-Histidine box-1	58
+I-Histidine box-1	59
+E-Histidine box-1	60
+B-Histidine box-2	61
+I-Histidine box-2	62
+E-Histidine box-2	63
+B-Histidine box-3	64
+I-Histidine box-3	65
+E-Histidine box-3	66
+B-EAR-like (transcriptional repression)	67
+I-EAR-like (transcriptional repression)	68
+E-EAR-like (transcriptional repression)	69
+B-Important for interaction with partner proteins	70
+I-Important for interaction with partner proteins	71
+E-Important for interaction with partner proteins	72
+B-BH3	73
+I-BH3	74
+E-BH3	75
+B-Nuclear localization signal 1	76
+I-Nuclear localization signal 1	77
+E-Nuclear localization signal 1	78
+B-Nuclear localization signal 2	79
+I-Nuclear localization signal 2	80
+E-Nuclear localization signal 2	81
+B-CXXC	82
+I-CXXC	83
+E-CXXC	84
+B-CX6CC	85
+I-CX6CC	86
+E-CX6CC	87
+B-TXY	88
+I-TXY	89
+E-TXY	90
+B-pLxIS motif	91
+I-pLxIS motif	92
+E-pLxIS motif	93
+B-GXSXG	94
+I-GXSXG	95
+E-GXSXG	96
+B-DGA/G	97
+I-DGA/G	98
+E-DGA/G	99
+B-Nuclear export signal	100
+I-Nuclear export signal	101
+E-Nuclear export signal	102
+B-NPA 1	103
+I-NPA 1	104
+E-NPA 1	105
+B-NPA 2	106
+I-NPA 2	107
+E-NPA 2	108
+B-D/ECD-tripeptide	109
+I-D/ECD-tripeptide	110
+E-D/ECD-tripeptide	111
+B-Effector region	112
+I-Effector region	113
+E-Effector region	114
+B-SH3-binding	115
+I-SH3-binding	116
+E-SH3-binding	117
+B-Antp-type hexapeptide	118
+I-Antp-type hexapeptide	119
+E-Antp-type hexapeptide	120
+B-GXGXXG	121
+I-GXGXXG	122
+E-GXGXXG	123
+B-HXXXXD motif	124
+I-HXXXXD motif	125
+E-HXXXXD motif	126
+B-TPR repeat-binding	127
+I-TPR repeat-binding	128
+E-TPR repeat-binding	129
+B-Arginine finger	130
+I-Arginine finger	131
+E-Arginine finger	132
+B-Beta-hairpin	133
+I-Beta-hairpin	134
+E-Beta-hairpin	135
+B-Cx2C motif 1	136
+I-Cx2C motif 1	137
+E-Cx2C motif 1	138
+B-Cx2C motif 2	139
+I-Cx2C motif 2	140
+E-Cx2C motif 2	141
+B-Cell attachment site	142
+I-Cell attachment site	143
+E-Cell attachment site	144
+B-Bipartite nuclear localization signal	145
+I-Bipartite nuclear localization signal	146
+E-Bipartite nuclear localization signal	147
+B-Lys-Thr-X-X-X-Trp motif  mediates interaction with the PDZ domain of Dvl family members	148
+I-Lys-Thr-X-X-X-Trp motif  mediates interaction with the PDZ domain of Dvl family members	149
+E-Lys-Thr-X-X-X-Trp motif  mediates interaction with the PDZ domain of Dvl family members	150
+B-Cx9C motif 1	151
+I-Cx9C motif 1	152
+E-Cx9C motif 1	153
+B-Cx9C motif 2	154
+I-Cx9C motif 2	155
+E-Cx9C motif 2	156
+B-Interaction with polymerase core subunit RpoC	157
+I-Interaction with polymerase core subunit RpoC	158
+E-Interaction with polymerase core subunit RpoC	159
+B-PP-loop motif	160
+I-PP-loop motif	161
+E-PP-loop motif	162
+B-OAR	163
+I-OAR	164
+E-OAR	165
+B-PAL	166
+I-PAL	167
+E-PAL	168
+B-WSXWS motif	169
+I-WSXWS motif	170
+E-WSXWS motif	171
+B-Box 1 motif	172
+I-Box 1 motif	173
+E-Box 1 motif	174
+B-LXXLL motif	175
+I-LXXLL motif	176
+E-LXXLL motif	177
+B-Di-lysine motif	178
+I-Di-lysine motif	179
+E-Di-lysine motif	180
+B-L/FRRG motif	181
+I-L/FRRG motif	182
+E-L/FRRG motif	183
+B-DEVH box	184
+I-DEVH box	185
+E-DEVH box	186
+B-Nuclear localization signal (NLS)	187
+I-Nuclear localization signal (NLS)	188
+E-Nuclear localization signal (NLS)	189
+B-WRPW motif	190
+I-WRPW motif	191
+E-WRPW motif	192
+B-Histidine triad motif	193
+I-Histidine triad motif	194
+E-Histidine triad motif	195
+B-LXXLL motif 1	196
+I-LXXLL motif 1	197
+E-LXXLL motif 1	198
+B-DECH box	199
+I-DECH box	200
+E-DECH box	201
+B-LXXLL motif 2	202
+I-LXXLL motif 2	203
+E-LXXLL motif 2	204
+B-Meso-diaminopimelate recognition motif	205
+I-Meso-diaminopimelate recognition motif	206
+E-Meso-diaminopimelate recognition motif	207
+B-Dileucine internalization motif	208
+E-Dileucine internalization motif	209
+B-PPXY motif	210
+I-PPXY motif	211
+E-PPXY motif	212
+B-Ionic lock involved in activated form stabilization	213
+I-Ionic lock involved in activated form stabilization	214
+E-Ionic lock involved in activated form stabilization	215
+B-ThyX motif	216
+I-ThyX motif	217
+E-ThyX motif	218
+B-Polymerase core binding	219
+I-Polymerase core binding	220
+E-Polymerase core binding	221
+B-Selectivity filter part_1	222
+I-Selectivity filter part_1	223
+E-Selectivity filter part_1	224
+B-Selectivity filter part_2	225
+I-Selectivity filter part_2	226
+E-Selectivity filter part_2	227
+B-Selectivity filter part_3	228
+I-Selectivity filter part_3	229
+E-Selectivity filter part_3	230
+B-Nucleolar localization signal	231
+I-Nucleolar localization signal	232
+E-Nucleolar localization signal	233
+B-DRY motif	234
+I-DRY motif	235
+E-DRY motif	236
+B-NPxxY motif	237
+I-NPxxY motif	238
+E-NPxxY motif	239
+B-Involved in the stabilization of the negatively charged intermediate by the formation of the oxyanion hole	240
+I-Involved in the stabilization of the negatively charged intermediate by the formation of the oxyanion hole	241
+E-Involved in the stabilization of the negatively charged intermediate by the formation of the oxyanion hole	242
+B-YSIRK-G/S signaling motif	243
+I-YSIRK-G/S signaling motif	244
+E-YSIRK-G/S signaling motif	245
+B-LPXTG sorting signal	246
+I-LPXTG sorting signal	247
+E-LPXTG sorting signal	248
+B-Cysteine switch	249
+I-Cysteine switch	250
+E-Cysteine switch	251
+B-RxLR-dEER	252
+I-RxLR-dEER	253
+E-RxLR-dEER	254
+B-VHIID	255
+I-VHIID	256
+E-VHIID	257
+B-[ST]-Q motif	258
+E-[ST]-Q motif	259
+B-GyrA-box	260
+I-GyrA-box	261
+E-GyrA-box	262
+B-DEGH box	263
+I-DEGH box	264
+E-DEGH box	265
+B-Di-leucine internalization motif	266
+E-Di-leucine internalization motif	267
+I-Di-leucine internalization motif	268
+B-BH1	269
+I-BH1	270
+E-BH1	271
+B-BH2	272
+I-BH2	273
+E-BH2	274
+B-SH2-binding	275
+I-SH2-binding	276
+E-SH2-binding	277
+B-YXXL motif	278
+I-YXXL motif	279
+E-YXXL motif	280
+B-Endocytosis signal	281
+I-Endocytosis signal	282
+E-Endocytosis signal	283
+B-D-box	284
+I-D-box	285
+E-D-box	286
+B-DDXXD motif	287
+I-DDXXD motif	288
+E-DDXXD motif	289
+B-Twin CX3C motif	290
+I-Twin CX3C motif	291
+E-Twin CX3C motif	292
+B-ITIM motif	293
+I-ITIM motif	294
+E-ITIM motif	295
+B-GDS motif	296
+I-GDS motif	297
+E-GDS motif	298
+B-LXXLL	299
+I-LXXLL	300
+E-LXXLL	301
+S-Nuclear localization signal	302
+B-Gly-cisPro motif  important for rejection of L-amino acids	303
+E-Gly-cisPro motif  important for rejection of L-amino acids	304
+B-LXCXE motif	305
+I-LXCXE motif	306
+E-LXCXE motif	307
+B-GXWXGXG	308
+I-GXWXGXG	309
+E-GXWXGXG	310
+B-Small peptide recognition	311
+E-Small peptide recognition	312
+I-Small peptide recognition	313
+S-Small peptide recognition	314
+S-Nuclear export signal	315
+B-KxHxx	316
+I-KxHxx	317
+E-KxHxx	318
+S-Others	319
+B-DXDD motif	320
+I-DXDD motif	321
+E-DXDD motif	322
+B-Nuclear localization signal 1 (NLS1)	323
+I-Nuclear localization signal 1 (NLS1)	324
+E-Nuclear localization signal 1 (NLS1)	325
+B-Nuclear localization signal 2 (NLS2)	326
+I-Nuclear localization signal 2 (NLS2)	327
+E-Nuclear localization signal 2 (NLS2)	328
+B-PTAP/PSAP motif	329
+I-PTAP/PSAP motif	330
+E-PTAP/PSAP motif	331
+B-CysB motif	332
+I-CysB motif	333
+E-CysB motif	334
+I-Dileucine internalization motif	335
+No motif	-100
