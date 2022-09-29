@@ -263,9 +263,6 @@ class ClassificationLayer(nn.Module):
     
     def forward(self, pro_feat, pro_mask):
         norm = torch.norm(pro_feat, dim=2)
-        """
-        此处需要加入以下两个代码，某开源代码没加，是一个坑，此处改动是让pad的token不在attention中起作用
-        """
         pro_mask = pro_mask.squeeze(-2).squeeze(-2)
         norm = norm.masked_fill(pro_mask==0, -1e10)
 
@@ -305,9 +302,6 @@ class Predictor(nn.Module):
         return protein_mask, goterm_mask
 
     def struc_data_format_change(self, sample_num, sample_len, struc_emb, pro_seq_lens, device):
-        """
-        这里是gvp网络输出数据的特殊处理
-        """
         struc_emb_new = None
         seq_len_1, seq_len_2 = 0, 0
         for i in range(sample_num):

@@ -298,9 +298,6 @@ class Predictor(nn.Module):
         return protein_mask, goterm_mask
 
     def struc_data_format_change(self, sample_num, sample_len, struc_emb, pro_seq_lens, device):
-        """
-        这里是gvp网络输出数据的特殊处理
-        """
         struc_emb_new = None
         seq_len_1, seq_len_2 = 0, 0
         for i in range(sample_num):
