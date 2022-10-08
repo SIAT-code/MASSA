@@ -11,8 +11,9 @@ The data can be downloaded from these links. If you have any question, please co
 
 Pretrain dataset: https://drive.google.com/file/d/1xHUs0B9VuKviBzj-k-203p4a9vEoo1RW/view?usp=sharing
 Downstream dataset: https://drive.google.com/file/d/10yywJNTQ9Z30B_4uyNfQhnXQdhhdjK3W/view?usp=sharing
-GNN-PPI data: https://drive.google.com/file/d/1YSXNsTJo-Cdxo08cHLb6ghd6noJJ4y73/view?usp=sharing
-GNN-PPI pretrained embedding: https://drive.google.com/file/d/1sq2VQGAMWmWg02hqhyWju2xuiJ-oHbq0/view?usp=sharing
+GNN-PPI
+    data: https://drive.google.com/file/d/1YSXNsTJo-Cdxo08cHLb6ghd6noJJ4y73/view?usp=sharing
+    pretrained embedding: https://drive.google.com/file/d/1sq2VQGAMWmWg02hqhyWju2xuiJ-oHbq0/view?usp=sharing
 
 # Checkpoint 
 
