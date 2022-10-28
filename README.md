@@ -56,6 +56,3 @@ go_input_dim         |Size of goterm embedding vector |	64      |
 go_dim         |Size of hidden embedding on goterm encoder |	128      |	[128, 256, 512]  
 go_n_heads         |Number of attention heads of goterm encoder |	4      |	[4, 8, 16] 
 go_n_layers         |Number of goterm encoder layers |	3      |	[3, 4, 5] 
-
-# Citation
-Hu, F., Hu, Y., Huang, H., Zhang, W., Pan, Y., & Yin, P. MASSA: A multimodal framework for incorporating protein sequence, structure, and functional annotation. Nat Mach Intell (2022).
