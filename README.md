@@ -1,5 +1,10 @@
 # MASSA
 
+Implementation of paper:
+
+Hu, F., Hu, Y., Zhang, W., Huang, H., Pan, Y., & Yin, P. (2023). A Multimodal Protein Representation Framework for Quantifying Transferability Across Biochemical Downstream Tasks. Advanced Science, 2301223.
+https://doi.org/10.1002/advs.202301223
+
 [![python >3.7.12](https://img.shields.io/badge/python-3.7.12-brightgreen)](https://www.python.org/) 
 # Install
 
