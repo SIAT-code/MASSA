@@ -61,3 +61,16 @@ go_input_dim         |Size of goterm embedding vector |	64      |
 go_dim         |Size of hidden embedding on goterm encoder |	128      |	[128, 256, 512]  
 go_n_heads         |Number of attention heads of goterm encoder |	4      |	[4, 8, 16] 
 go_n_layers         |Number of goterm encoder layers |	3      |	[3, 4, 5] 
+
+## Citations
+If you use our framework in your research, please cite our paper:
+```BibTex
+@article{hu2023multimodal,
+  author={Hu, Fan and Hu, Yishen and Zhang, Weihong and Huang, Huazhen and Pan, Yi and Yin, Peng},
+  title={A Multimodal Protein Representation Framework for Quantifying Transferability Across Biochemical Downstream Tasks},
+  journal={Advanced Science},
+  year={2023},
+  pages={2301223},
+  doi={10.1002/advs.202301223}
+}
+```
